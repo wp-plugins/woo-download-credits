@@ -1,0 +1,73 @@
+.td {
+    display: block;
+    float: left;
+    width: 20%;padding: 5px 10px;
+}
+.form-table {
+
+    width: 100%;
+}
+
+
+.td.td1 {
+    width: 60%;
+}
+
+
+.td.td2 {
+    width: 17%;
+}
+
+.td > label {
+    display: block;
+}
+
+.td.td1 label span {
+    font-size: 11px;
+}
+
+
+.td.td3{
+    width: 17%;
+}
+
+.td.td1 > input {
+    width: 100%;
+}
+
+.td.td4 {
+    width: 5%;
+}
+
+
+.td.td2 > input {
+    width: 110px;
+}
+
+
+.td.td3 > input {
+    width: 110px;
+}
+
+
+.form-table td p.submit {
+    margin: 0;
+    padding: 0;
+}
+
+#post-body-content {
+    float: left;
+    width: 80%;
+}
+
+
+#post-body.columns-2 #postbox-container-1 {
+    float: left;
+    margin-right: 0;
+    width: 20%;
+}
+
+
+#poststuff #post-body.columns-2 {
+    margin-right: 0;
+}
